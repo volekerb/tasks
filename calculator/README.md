@@ -1,6 +1,6 @@
-#Simple calculator service
+# Simple calculator service
 
-##Description
+## Description
 Application is a web service built on top of [Spring boot](https://projects.spring.io/spring-boot/).
 Main goal of the app is to perform calculation for two provided numbers.
 Supported operations: 
